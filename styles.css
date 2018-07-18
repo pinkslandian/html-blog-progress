@@ -1,0 +1,27 @@
+body {
+  background-color:#7EB9BA;
+}
+p {
+  font-family:courier; 
+  font-size:20px;
+}
+.container {
+  background-color:pink;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#indent {
+  text-indent: 50px;
+}
+
+#test {
+  text-shadow: 3px 2px red;
+}
+
+#bad {
+  text-shadow: 3px 2px yellow; 
+}
